@@ -48,3 +48,4 @@ Flask-Mail
 faraday-agent-parameters-types>=1.2.0
 cvss>=2.5
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
